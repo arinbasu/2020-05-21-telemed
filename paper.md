@@ -2,6 +2,7 @@
 title: Telehealth Provision for Health Providers
 author:
  - Dale Sheehan
+ - Arindam Basu
  - Add your name to it
  - 
 bibliography: zotero.bib 
@@ -42,27 +43,18 @@ professions and manage continuity of care. When examined they can allow a deeper
 Given the breadth and diversity of telehealth activity there is now an opportunity to capture the experience of health professionals who have been using telehealth and who have been adapting their practice and refining there telehealth interactions and techniques during this time
 to maximise both the efficiencies and effectiveness of telehealth consultations into the future.
 
-This project seeks to explore the experience of clinician's (in parallel with another study looking at pt experience) .
+This project seeks to explore the experience of clinician's (in parallel with another study looking at pt experience):
 
-| Question | Text                               |
-|----------|------------------------------------|
-|Q1 | What worked and did not work for  clinicians? |                         
+ - What worked and did not work for  clinicians? 
+ - What tips and strategy's were developed that could inform other      practice?
+ - Was it compliant with current guidelines?
+ - What were the barriers and enablers?
+ - In what situation was it efficient and when was it not?
+ - Was it effective and what were the situations when it was not?
+ - How were patients prepared for consultations? 
+ - Did clinician's vary approach for Maori clients or other ethnicities? 
 
-|Q2         | What tips and strategy's were                     developed that could inform other                    practice?                          |
-
-|Q3        | Was it compliant with current                       guidelines?                        |
-
-|Q5         |What were the barriers and enablers |
-
-| Q6        | In what situation was it efficient and               when was it not?                  |
-
-| Q7        | Was it effective and what were the                  situations when it was not? |
-
-| Q8        | How were patients prepared for                      consultations? |
-
-| Q9        | Did clinician's vary approach for                  Maori clients or other ethnicities? |
-
-**Application and impact **
+## Application and impact 
 
 Knowledge develops in practice teams influenced and facilitated by the presence of artefacts of practice.
 
@@ -86,14 +78,14 @@ Our research has the potential to
     mental health, working with Maori and pacific peoples, the eldery
     etc)
 
-**Methodology **
+## Methodology 
 
-**Practice Research**
+### Practice Research
 
 As an investigation of learning in practice about telehealth and this
 thesis is positioned within Schwandt's (2005) "practice knowledge
 tradition" characterized by "a praxis orientated approach to enquiry"
-(p.328) as it explores learning as participation and engagement in work.
+(p.328) as it explores learning as participation and engagement in work [@schwandt_2005]. (**need Schwandt 2005 ref from Dale**)
 
 Green's work (2009) highlights the fact that researching practice should
 be considered within each of three categories; action, experience and
@@ -101,9 +93,7 @@ context. Action is the doing of practice performing an action, carrying
 it out. Professional practice is undeniably experiential "one
 experiences practice, one lives through it, aware that it is happening;
 one remembers it afterwards; one looks forward to it, or not. It is an
-object of fear, fantasy and always imagination" (Green 2009, p.8). Green
-argues that practice is always contextualized, and that context "needs
-to be thought of as part of practice" (p.9).
+object of fear, fantasy and always imagination" [@green_2009] (**need ref from Dale**). Green argues that practice is always contextualized, and that context "needs to be thought of as part of practice" (p.9).
 
 The project takes a pragmatic approach in that it seeks to initiate a
 discourse about the practice of tele health in an attempt to bridge were
@@ -114,7 +104,7 @@ attending closely to what is practicable, realistic, expedient and
 convenient; articulating this and laying it out open as clearly as
 possible; and critiquing, analyzing and interpreting this approach such
 that the understandings that emerge can reshape practice" (2009, p.
-138). This is the central and transparent goal of this study.
+138). This is the central and transparent goal of this study [@fish_2009] (**need the reference from Dale**).
 
 Qualitative research methodologies will be utilised in order to explore
 the clinician's experience, understandings and practices that support
@@ -122,7 +112,7 @@ and encourage good practice in telehealth consultations. First
 individually and then as a practice community exploring and refining
 practice learning for telehealth delivery.
 
-**Methods**
+## Methods
 
 The predominate strategy will be qualitative interviewing (individuals
 and groups) and modeled on a conversational and joint enquiry style.
@@ -132,21 +122,21 @@ either by zoom or person to person to allow for flexibility so that the
 participants could relate not only their practice but also how their
 strategies were formed and shaped by the communication medium and the
 Covid-19 environment and then enacted providing descriptions of actual
-situated practice (Silverman 2000).
+situated practice [@silverman_2000] (**need ref from Dale**).
 
 Following analysis of this initial data set interviewees will be invited
 to engage in an on- line (zoom) focus group to investigate participants'
 perceptions stories and case examples. The group process can facilitate
 extended discussing and the exploration of experience as well as explain
 why particular behaviours and strategies were refined and perpetuated
-and now recommended. (Kitzinger 1995). In doing so there was a shift
+and now recommended. [@kitzinger 1995] (**need ref from Dale**). In doing so there was a shift
 towards the fifth of Kemmis's categories of practice research 'practice
 as reflexive, to be studied dialectically' (2009, p20) that is, practice
-as reconstituted by human agency and social action.
+as reconstituted by human agency and social action [@kemmis_2009] (**need ref from Dale**).
 
-**Data Collection (Sampling and data collection) **
+## Data Collection (Sampling and data collection) 
 
-Phase 1
+### Phase 1
 
 There exists a forum for health professional educations interested in
 research within the health precinct. The intention is to invite new
@@ -173,7 +163,7 @@ and ultimately patient care and efficient service delivery. This
 diversity of professional imput enrichness data collection and also
 widens the impact and reach of the work.
 
-Phase 2 -- Focus groups
+### Phase 2 -- Focus groups
 
 Following analysis of this initial data set interviewees will be invited
 to engage in an on- line (zoom) focus group to investigate participants'
@@ -181,7 +171,7 @@ perceptions stories and case examples. They will be randomly assigned to
 3 groups The group process will facilitate extended discussing and the
 exploration of experience, uncovering tacit understandings as well as
 explaining why particular behaviours and strategies were refined and
-perpetuated and are now recommended. (Kitzinger 1995). In doing so there
+perpetuated and are now recommended. [@kitzinger_1995]. In doing so there
 was a shift towards the fifth of Kemmis's categories of practice
 research 'practice as reflexive, to be studied dialectically' (2009,
 p20) that is, practice as reconstituted by human agency and social
@@ -192,9 +182,11 @@ facilitating engagement the other supporting facilitator monitoring the
 conversation chat room and group contribution. The meeting will be
 recorded
 
-**Consent Oral and recorded with the interview **
+## Oral Consent Oral and recorded with the interview 
 
-**Information sheet provided with appointment conformation/zoom invite
-**
+## Information sheet provided with appointment conformation/zoom invite
+
 
 # References
+
+(Note: please copy and paste the full references in this space)
