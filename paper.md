@@ -12,6 +12,7 @@ tags: telemedicine, health, proposal
 
 ## Editing Notes (will be removed in the final draft version)
 ---
+:::info
 - Please do not change anything other than your name in the above block (that block is metadata)
 - You can write in plain text or 
     - use the top toolbar to decorate text and add tables etc
@@ -25,6 +26,7 @@ tags: telemedicine, health, proposal
     - Please paste the citation text to the reference section
 - Everyone can collaborate on this document simultaneously 
     - the document saves itself
+:::
 ---
 
 ### Learning from the experience of clinicians
